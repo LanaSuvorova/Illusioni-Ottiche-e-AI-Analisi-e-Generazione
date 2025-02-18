@@ -25,3 +25,11 @@ Questo progetto esplora il rapporto tra illusioni ottiche e intelligenza artific
 
 ## Autore 
 Svetlana Suvorova - Matricola 952121
+
+## Fonti
+1. ”Optical Illusions Recognition Intelligence" di Wai Yie Leong, Yuan Zhi Leong e
+Wai San Leong (2024): https://www.researchgate.net/publication383721440_Optical_Illusions_Recognition_Intelligence
+2. ”Generative Artificial Intelligence, Human Creativity, and Art" di Eric Zhou e
+Dokyun Lee (2024): https://academic.oup.com/pnasnexus/article/3/3/pgae052/7618478
+3. "The Mathematical Side of M. C. Escher" di Doris Schattschneider: https://www.ams.org/notices/201006/rtx100600706p.pdf
+4. "Generative Adversarial Networks" di Ian Goodfellow et al.: https://dl.acm.org/doi/10.1145/3422622
